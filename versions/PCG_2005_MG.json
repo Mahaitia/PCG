@@ -1,0 +1,1403 @@
+{
+  "plan_comptable": [
+    {
+      "classe_numero": 1,
+      "classe_nom": "COMPTES DE CAPITAUX",
+      "comptes": [
+        {
+          "compte_numero": "10",
+          "compte_nom": "Capital, réserves et assimilés",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "101",
+              "sous_compte_nom": "Capital"
+            },
+            {
+              "sous_compte_numero": "104",
+              "sous_compte_nom": "Primes liées au capital social"
+            },
+            {
+              "sous_compte_numero": "105",
+              "sous_compte_nom": "Ecart d'évaluation"
+            },
+            {
+              "sous_compte_numero": "106",
+              "sous_compte_nom": "Réserves"
+            },
+            {
+              "sous_compte_numero": "107",
+              "sous_compte_nom": "Ecart d'équivalence"
+            },
+            {
+              "sous_compte_numero": "108",
+              "sous_compte_nom": "Compte de l'exploitant"
+            },
+            {
+              "sous_compte_numero": "109",
+              "sous_compte_nom": "Actionnaires, capital souscrit non appelé"
+            }
+          ]
+        },
+        {
+          "compte_numero": "11",
+          "compte_nom": "Report à nouveau",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "110",
+              "sous_compte_nom": "Report à nouveau solde créditeur"
+            },
+            {
+              "sous_compte_numero": "119",
+              "sous_compte_nom": "Report à nouveau solde débiteur"
+            }
+          ]
+        },
+        {
+          "compte_numero": "12",
+          "compte_nom": "Résultat de l'exercice",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "120",
+              "sous_compte_nom": "Résultat de l'exercice (bénéfice)"
+            },
+            {
+              "sous_compte_numero": "129",
+              "sous_compte_nom": "Résultat de l'exercice (perte)"
+            }
+          ]
+        },
+        {
+          "compte_numero": "13",
+          "compte_nom": "Produits et charges différés - hors cycle d'exploitation",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "131",
+              "sous_compte_nom": "Subventions d'équipement"
+            },
+            {
+              "sous_compte_numero": "132",
+              "sous_compte_nom": "Autres subventions d'investissement"
+            },
+            {
+              "sous_compte_numero": "133",
+              "sous_compte_nom": "Impôts différés actif"
+            },
+            {
+              "sous_compte_numero": "134",
+              "sous_compte_nom": "Impôts différés passif"
+            },
+            {
+              "sous_compte_numero": "138",
+              "sous_compte_nom": "Autres produits et charges différés"
+            }
+          ]
+        },
+        {
+          "compte_numero": "14",
+          "compte_nom": "(Disponible)",
+          "sous_comptes": []
+        },
+        {
+          "compte_numero": "15",
+          "compte_nom": "Provisions pour charges - passifs non courants",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "153",
+              "sous_compte_nom": "Provisions pour pensions et obligations similaires"
+            },
+            {
+              "sous_compte_numero": "155",
+              "sous_compte_nom": "Provisions pour impôts"
+            },
+            {
+              "sous_compte_numero": "156",
+              "sous_compte_nom": "Provisions pour renouvellement des immobilisations (concession)"
+            },
+            {
+              "sous_compte_numero": "158",
+              "sous_compte_nom": "Autres provisions pour charges - passifs non courants"
+            }
+          ]
+        },
+        {
+          "compte_numero": "16",
+          "compte_nom": "Emprunts et dettes assimilés",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "161",
+              "sous_compte_nom": "Emprunts obligataires convertibles"
+            },
+            {
+              "sous_compte_numero": "163",
+              "sous_compte_nom": "Autres emprunts obligataires"
+            },
+            {
+              "sous_compte_numero": "164",
+              "sous_compte_nom": "Emprunts auprès des établissements de crédit"
+            },
+            {
+              "sous_compte_numero": "165",
+              "sous_compte_nom": "Dépôts et cautionnements reçus"
+            },
+            {
+              "sous_compte_numero": "167",
+              "sous_compte_nom": "Dettes sur contrat de location-financement"
+            },
+            {
+              "sous_compte_numero": "168",
+              "sous_compte_nom": "Autres emprunts et dettes assimilés"
+            },
+            {
+              "sous_compte_numero": "169",
+              "sous_compte_nom": "Primes de remboursement des obligations"
+            }
+          ]
+        },
+        {
+          "compte_numero": "17",
+          "compte_nom": "Dettes rattachées à des participations",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "171",
+              "sous_compte_nom": "Dettes rattachées à des participations groupe"
+            },
+            {
+              "sous_compte_numero": "172",
+              "sous_compte_nom": "Dettes rattachées à des participations hors groupe"
+            },
+            {
+              "sous_compte_numero": "173",
+              "sous_compte_nom": "Dettes rattachées à des sociétés en participation"
+            },
+            {
+              "sous_compte_numero": "178",
+              "sous_compte_nom": "Autres dettes rattachés à des participations"
+            }
+          ]
+        },
+        {
+          "compte_numero": "18",
+          "compte_nom": "Comptes de liaison des établissements et sociétés en participation",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "181",
+              "sous_compte_nom": "Comptes de liaison entre établissements"
+            },
+            {
+              "sous_compte_numero": "188",
+              "sous_compte_nom": "Comptes de liaison entre sociétés en participation"
+            }
+          ]
+        },
+        {
+          "compte_numero": "19",
+          "compte_nom": "(disponible)",
+          "sous_comptes": []
+        }
+      ]
+    },
+    {
+      "classe_numero": 2,
+      "classe_nom": "COMPTES D'IMMOBILISATIONS",
+      "comptes": [
+        {
+          "compte_numero": "20",
+          "compte_nom": "Immobilisations incorporelles",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "203",
+              "sous_compte_nom": "Frais de développement immobilisables"
+            },
+            {
+              "sous_compte_numero": "204",
+              "sous_compte_nom": "Logiciels informatiques et assimilés"
+            },
+            {
+              "sous_compte_numero": "205",
+              "sous_compte_nom": "Concessions et droits similaires, brevets, licences, marques"
+            },
+            {
+              "sous_compte_numero": "207",
+              "sous_compte_nom": "Fonds commercial"
+            },
+            {
+              "sous_compte_numero": "208",
+              "sous_compte_nom": "Autres immobilisations incorporelles"
+            }
+          ]
+        },
+        {
+          "compte_numero": "21",
+          "compte_nom": "Immobilisations corporelles",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "211",
+              "sous_compte_nom": "Terrains"
+            },
+            {
+              "sous_compte_numero": "212",
+              "sous_compte_nom": "Agencements et aménagements de terrain"
+            },
+            {
+              "sous_compte_numero": "213",
+              "sous_compte_nom": "Constructions"
+            },
+            {
+              "sous_compte_numero": "215",
+              "sous_compte_nom": "Installations techniques"
+            },
+            {
+              "sous_compte_numero": "218",
+              "sous_compte_nom": "Autres immobilisations corporelles"
+            }
+          ]
+        },
+        {
+          "compte_numero": "22",
+          "compte_nom": "Immobilisations mises en concession",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "221",
+              "sous_compte_nom": "Terrains en concession"
+            },
+            {
+              "sous_compte_numero": "222",
+              "sous_compte_nom": "Agencements et aménagements de terrain en concession"
+            },
+            {
+              "sous_compte_numero": "223",
+              "sous_compte_nom": "Constructions en concession"
+            },
+            {
+              "sous_compte_numero": "225",
+              "sous_compte_nom": "Installations techniques en concession"
+            },
+            {
+              "sous_compte_numero": "228",
+              "sous_compte_nom": "Autres immobilisations corporelles en concession"
+            },
+            {
+              "sous_compte_numero": "229",
+              "sous_compte_nom": "Droits du concédant"
+            }
+          ]
+        },
+        {
+          "compte_numero": "23",
+          "compte_nom": "Immobilisations en cours",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "232",
+              "sous_compte_nom": "Immobilisations corporelles en cours"
+            },
+            {
+              "sous_compte_numero": "237",
+              "sous_compte_nom": "Immobilisations incorporelles en cours"
+            },
+            {
+              "sous_compte_numero": "238",
+              "sous_compte_nom": "Avances et acomptes versés sur commandes d'immobilisations"
+            }
+          ]
+        },
+        {
+          "compte_numero": "24",
+          "compte_nom": "(disponible)",
+          "sous_comptes": []
+        },
+        {
+          "compte_numero": "25",
+          "compte_nom": "(disponible)",
+          "sous_comptes": []
+        },
+        {
+          "compte_numero": "26",
+          "compte_nom": "Participations et créances rattachées à des participations",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "261",
+              "sous_compte_nom": "Titres de participation"
+            },
+            {
+              "sous_compte_numero": "262",
+              "sous_compte_nom": "Autres formes de participations"
+            },
+            {
+              "sous_compte_numero": "265",
+              "sous_compte_nom": "Titres de participation évalués par équivalence"
+            },
+            {
+              "sous_compte_numero": "266",
+              "sous_compte_nom": "Créances rattachées à des participations groupe"
+            },
+            {
+              "sous_compte_numero": "267",
+              "sous_compte_nom": "Créances rattachées à des participations hors groupe"
+            },
+            {
+              "sous_compte_numero": "268",
+              "sous_compte_nom": "Créances rattachées à des sociétés en participation"
+            },
+            {
+              "sous_compte_numero": "269",
+              "sous_compte_nom": "Versements restant à effectuer sur titres de participation non libérés"
+            }
+          ]
+        },
+        {
+          "compte_numero": "27",
+          "compte_nom": "Autres immobilisations financières",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "271",
+              "sous_compte_nom": "Titres immobilisés autres que les titres immobilisés de l'activité de portefeuille"
+            },
+            {
+              "sous_compte_numero": "272",
+              "sous_compte_nom": "Titres représentatifs de droit de créance (obligations, bons)"
+            },
+            {
+              "sous_compte_numero": "273",
+              "sous_compte_nom": "Titres immobilisés de l'activité de portefeuille"
+            },
+            {
+              "sous_compte_numero": "274",
+              "sous_compte_nom": "Prêts"
+            },
+            {
+              "sous_compte_numero": "275",
+              "sous_compte_nom": "Dépôts et cautionnements versés"
+            },
+            {
+              "sous_compte_numero": "276",
+              "sous_compte_nom": "Autres créances immobilisées"
+            },
+            {
+              "sous_compte_numero": "277",
+              "sous_compte_nom": "Actions propres (ou parts propres)"
+            },
+            {
+              "sous_compte_numero": "279",
+              "sous_compte_nom": "Versements restant à effectuer sur titres immobilisés non libérés"
+            }
+          ]
+        },
+        {
+          "compte_numero": "28",
+          "compte_nom": "Amortissement des immobilisations",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "280",
+              "sous_compte_nom": "Amortissement des immobilisations incorporelles"
+            },
+            {
+              "sous_compte_numero": "281",
+              "sous_compte_nom": "Amortissement des immobilisations corporelles"
+            },
+            {
+              "sous_compte_numero": "282",
+              "sous_compte_nom": "Amortissement des immobilisations mises en concession"
+            }
+          ]
+        },
+        {
+          "compte_numero": "29",
+          "compte_nom": "Pertes de valeur sur immobilisations",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "290",
+              "sous_compte_nom": "Perte de valeur sur immobilisations incorporelles"
+            },
+            {
+              "sous_compte_numero": "291",
+              "sous_compte_nom": "Perte de valeur sur immobilisations corporelles"
+            },
+            {
+              "sous_compte_numero": "292",
+              "sous_compte_nom": "Dépréciation sur immobilisations mises en concession"
+            },
+            {
+              "sous_compte_numero": "293",
+              "sous_compte_nom": "Perte de valeur sur immobilisations en cours"
+            },
+            {
+              "sous_compte_numero": "296",
+              "sous_compte_nom": "Perte de valeur sur participations et créances rattachées à participations"
+            },
+            {
+              "sous_compte_numero": "297",
+              "sous_compte_nom": "Perte de valeur sur autres immobilisations financières"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classe_numero": 3,
+      "classe_nom": "COMPTES DE STOCKS ET EN-COURS",
+      "comptes": [
+        {
+          "compte_numero": "31",
+          "compte_nom": "Matières premières et fournitures",
+          "sous_comptes": []
+        },
+        {
+          "compte_numero": "32",
+          "compte_nom": "Autres approvisionnements",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "321",
+              "sous_compte_nom": "Matières consommables"
+            },
+            {
+              "sous_compte_numero": "322",
+              "sous_compte_nom": "Fournitures consommables"
+            },
+            {
+              "sous_compte_numero": "326",
+              "sous_compte_nom": "Emballages"
+            }
+          ]
+        },
+        {
+          "compte_numero": "33",
+          "compte_nom": "En cours de production de biens",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "331",
+              "sous_compte_nom": "Produits en cours"
+            },
+            {
+              "sous_compte_numero": "335",
+              "sous_compte_nom": "Travaux en cours"
+            }
+          ]
+        },
+        {
+          "compte_numero": "34",
+          "compte_nom": "En cours de production de services",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "341",
+              "sous_compte_nom": "Etudes en cours"
+            },
+            {
+              "sous_compte_numero": "345",
+              "sous_compte_nom": "Prestations de service en cours"
+            }
+          ]
+        },
+        {
+          "compte_numero": "35",
+          "compte_nom": "stocks de produits",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "351",
+              "sous_compte_nom": "Produits intermédiaires"
+            },
+            {
+              "sous_compte_numero": "355",
+              "sous_compte_nom": "Produits finis"
+            },
+            {
+              "sous_compte_numero": "358",
+              "sous_compte_nom": "Produits résiduels ou matières de récupération (déchets, rebuts)"
+            }
+          ]
+        },
+        {
+          "compte_numero": "36",
+          "compte_nom": "(compte disponible)",
+          "sous_comptes": []
+        },
+        {
+          "compte_numero": "37",
+          "compte_nom": "Stocks de marchandises",
+          "sous_comptes": []
+        },
+        {
+          "compte_numero": "38",
+          "compte_nom": "Stocks à l'extérieur (en cours de route, en dépôt ou en consignation)",
+          "sous_comptes": []
+        },
+        {
+          "compte_numero": "39",
+          "compte_nom": "Pertes de valeur sur stocks et en cours",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "391",
+              "sous_compte_nom": "Pertes de valeur Matières premières et fournitures"
+            },
+            {
+              "sous_compte_numero": "392",
+              "sous_compte_nom": "Pertes de valeur Autres approvisionnements"
+            },
+            {
+              "sous_compte_numero": "393",
+              "sous_compte_nom": "Pertes de valeur En cours de production de biens"
+            },
+            {
+              "sous_compte_numero": "394",
+              "sous_compte_nom": "Pertes de valeur En cours de production de services"
+            },
+            {
+              "sous_compte_numero": "395",
+              "sous_compte_nom": "Pertes de valeur Stocks de produits"
+            },
+            {
+              "sous_compte_numero": "397",
+              "sous_compte_nom": "Pertes de valeur Stocks de marchandises"
+            },
+            {
+              "sous_compte_numero": "398",
+              "sous_compte_nom": "Pertes de valeur Stocks à l'extérieur"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classe_numero": 4,
+      "classe_nom": "COMPTES DE TIERS",
+      "comptes": [
+        {
+          "compte_numero": "40",
+          "compte_nom": "Fournisseurs et comptes rattachés",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "401",
+              "sous_compte_nom": "Fournisseurs de biens et services"
+            },
+            {
+              "sous_compte_numero": "403",
+              "sous_compte_nom": "Fournisseurs effets à payer"
+            },
+            {
+              "sous_compte_numero": "404",
+              "sous_compte_nom": "Fournisseurs d'immobilisations"
+            },
+            {
+              "sous_compte_numero": "405",
+              "sous_compte_nom": "Fournisseurs d'immobilisations effets à payer"
+            },
+            {
+              "sous_compte_numero": "408",
+              "sous_compte_nom": "Fournisseurs factures non parvenues"
+            },
+            {
+              "sous_compte_numero": "409",
+              "sous_compte_nom": "Fournisseurs débiteurs : avances et acomptes, RRR à obtenir, autres créances"
+            }
+          ]
+        },
+        {
+          "compte_numero": "41",
+          "compte_nom": "Clients et comptes rattachés",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "411",
+              "sous_compte_nom": "Clients"
+            },
+            {
+              "sous_compte_numero": "413",
+              "sous_compte_nom": "Clients effets à recevoir"
+            },
+            {
+              "sous_compte_numero": "416",
+              "sous_compte_nom": "Clients douteux"
+            },
+            {
+              "sous_compte_numero": "417",
+              "sous_compte_nom": "Créances sur travaux non encore facturables"
+            },
+            {
+              "sous_compte_numero": "418",
+              "sous_compte_nom": "Clients - produits non encore facturés"
+            },
+            {
+              "sous_compte_numero": "419",
+              "sous_compte_nom": "Clients créditeurs"
+            }
+          ]
+        },
+        {
+          "compte_numero": "42",
+          "compte_nom": "Personnel et comptes rattachés",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "421",
+              "sous_compte_nom": "Personnel, rémunérations dues"
+            },
+            {
+              "sous_compte_numero": "422",
+              "sous_compte_nom": "Fonds sociaux - œuvres sociales"
+            },
+            {
+              "sous_compte_numero": "425",
+              "sous_compte_nom": "Personnel, avances et acomptes accordés"
+            },
+            {
+              "sous_compte_numero": "426",
+              "sous_compte_nom": "Personnel, dépôts reçus"
+            },
+            {
+              "sous_compte_numero": "427",
+              "sous_compte_nom": "Personnel, oppositions"
+            },
+            {
+              "sous_compte_numero": "428",
+              "sous_compte_nom": "Personnel, charges à payer et produits à recevoir"
+            }
+          ]
+        },
+        {
+          "compte_numero": "43",
+          "compte_nom": "Organismes sociaux et comptes rattachés",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "431",
+              "sous_compte_nom": "Organismes sociaux A"
+            },
+            {
+              "sous_compte_numero": "432",
+              "sous_compte_nom": "Organismes sociaux B"
+            },
+            {
+              "sous_compte_numero": "438",
+              "sous_compte_nom": "Organismes sociaux, charges à payer"
+            }
+          ]
+        },
+        {
+          "compte_numero": "44",
+          "compte_nom": "Etat, collectivités publiques, organismes internationaux",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "441",
+              "sous_compte_nom": "Etat, subventions à recevoir"
+            },
+            {
+              "sous_compte_numero": "442",
+              "sous_compte_nom": "Etat, impôts et taxes recouvrables sur des tiers"
+            },
+            {
+              "sous_compte_numero": "443",
+              "sous_compte_nom": "Opérations particulières avec l'Etat et autres organismes publiques"
+            },
+            {
+              "sous_compte_numero": "444",
+              "sous_compte_nom": "Etat, impôts sur les résultats"
+            },
+            {
+              "sous_compte_numero": "445",
+              "sous_compte_nom": "Etat, taxes sur le chiffre d'affaires"
+            },
+            {
+              "sous_compte_numero": "447",
+              "sous_compte_nom": "Autres impôts, taxes et versements assimilés"
+            },
+            {
+              "sous_compte_numero": "448",
+              "sous_compte_nom": "Etat, charges à payer et produits à recevoir"
+            }
+          ]
+        },
+        {
+          "compte_numero": "45",
+          "compte_nom": "Groupe et Associés",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "451",
+              "sous_compte_nom": "Opérations Groupe"
+            },
+            {
+              "sous_compte_numero": "455",
+              "sous_compte_nom": "Associés - comptes courants"
+            },
+            {
+              "sous_compte_numero": "456",
+              "sous_compte_nom": "Associés, opérations sur le capital"
+            },
+            {
+              "sous_compte_numero": "457",
+              "sous_compte_nom": "Associés, dividendes à payer"
+            },
+            {
+              "sous_compte_numero": "458",
+              "sous_compte_nom": "Associés, opérations faites en commun ou en groupement"
+            }
+          ]
+        },
+        {
+          "compte_numero": "46",
+          "compte_nom": "Débiteurs divers et créditeurs divers",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "462",
+              "sous_compte_nom": "Créances sur cessions d'immobilisations"
+            },
+            {
+              "sous_compte_numero": "464",
+              "sous_compte_nom": "Dettes sur acquisitions de valeurs mobilières de placement"
+            },
+            {
+              "sous_compte_numero": "465",
+              "sous_compte_nom": "Créances sur cessions de valeurs mobilières de placement"
+            },
+            {
+              "sous_compte_numero": "467",
+              "sous_compte_nom": "Autres comptes débiteurs ou créditeurs"
+            },
+            {
+              "sous_compte_numero": "468",
+              "sous_compte_nom": "Divers charges à payer ou produits à recevoir"
+            }
+          ]
+        },
+        {
+          "compte_numero": "47",
+          "compte_nom": "Comptes transitoires ou d'attente",
+          "sous_comptes": []
+        },
+        {
+          "compte_numero": "48",
+          "compte_nom": "Charges ou produits constatés d'avance et provisions",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "481",
+              "sous_compte_nom": "Provisions - passifs courants"
+            },
+            {
+              "sous_compte_numero": "486",
+              "sous_compte_nom": "Charges constatées d'avance"
+            },
+            {
+              "sous_compte_numero": "487",
+              "sous_compte_nom": "Produits constatés d'avance"
+            }
+          ]
+        },
+        {
+          "compte_numero": "49",
+          "compte_nom": "Pertes de valeur sur comptes de tiers",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "491",
+              "sous_compte_nom": "Pertes de valeur sur comptes de clients"
+            },
+            {
+              "sous_compte_numero": "495",
+              "sous_compte_nom": "Pertes de valeur sur comptes du groupe et des associés"
+            },
+            {
+              "sous_compte_numero": "496",
+              "sous_compte_nom": "Pertes de valeur sur comptes de débiteurs divers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classe_numero": 5,
+      "classe_nom": "COMPTES FINANCIERS",
+      "comptes": [
+        {
+          "compte_numero": "50",
+          "compte_nom": "Valeurs mobilières de placement",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "501",
+              "sous_compte_nom": "Part dans des entreprises liées"
+            },
+            {
+              "sous_compte_numero": "503",
+              "sous_compte_nom": "Actions"
+            },
+            {
+              "sous_compte_numero": "504",
+              "sous_compte_nom": "Autres titres conférant un droit de propriété"
+            },
+            {
+              "sous_compte_numero": "505",
+              "sous_compte_nom": "Obligations et bons émis par la société et rachetés par elle"
+            },
+            {
+              "sous_compte_numero": "506",
+              "sous_compte_nom": "Obligations"
+            },
+            {
+              "sous_compte_numero": "507",
+              "sous_compte_nom": "Bons du trésor et bons de caisse à court terme"
+            },
+            {
+              "sous_compte_numero": "508",
+              "sous_compte_nom": "Autres valeurs mobilières de placement et créances assimilés"
+            },
+            {
+              "sous_compte_numero": "509",
+              "sous_compte_nom": "Versements restant à effectuer sur VMP non libérées"
+            }
+          ]
+        },
+        {
+          "compte_numero": "51",
+          "compte_nom": "Banques, établissements financiers et assimilés",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "511",
+              "sous_compte_nom": "Valeurs à l'encaissement"
+            },
+            {
+              "sous_compte_numero": "512",
+              "sous_compte_nom": "Banques comptes courants"
+            },
+            {
+              "sous_compte_numero": "515",
+              "sous_compte_nom": "Caisse du Trésor Public et établissements publics"
+            },
+            {
+              "sous_compte_numero": "517",
+              "sous_compte_nom": "Autres organismes financiers"
+            },
+            {
+              "sous_compte_numero": "518",
+              "sous_compte_nom": "Intérêts courus"
+            },
+            {
+              "sous_compte_numero": "519",
+              "sous_compte_nom": "Concours bancaires courants"
+            }
+          ]
+        },
+        {
+          "compte_numero": "52",
+          "compte_nom": "Instruments de trésorerie",
+          "sous_comptes": []
+        },
+        {
+          "compte_numero": "53",
+          "compte_nom": "Caisse",
+          "sous_comptes": []
+        },
+        {
+          "compte_numero": "54",
+          "compte_nom": "Régies d'avances et accréditifs",
+          "sous_comptes": []
+        },
+        {
+          "compte_numero": "55",
+          "compte_nom": "(disponible)",
+          "sous_comptes": []
+        },
+        {
+          "compte_numero": "56",
+          "compte_nom": "(disponible)",
+          "sous_comptes": []
+        },
+        {
+          "compte_numero": "57",
+          "compte_nom": "(disponible)",
+          "sous_comptes": []
+        },
+        {
+          "compte_numero": "58",
+          "compte_nom": "Virements internes",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "581",
+              "sous_compte_nom": "Virements de fonds"
+            },
+            {
+              "sous_compte_numero": "588",
+              "sous_compte_nom": "Autres virements internes"
+            }
+          ]
+        },
+        {
+          "compte_numero": "59",
+          "compte_nom": "Pertes de valeur sur comptes financiers",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "591",
+              "sous_compte_nom": "Pertes de valeur sur valeurs en banque et Ets financiers"
+            },
+            {
+              "sous_compte_numero": "594",
+              "sous_compte_nom": "Pertes de valeur sur régies d'avances et accréditifs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classe_numero": 6,
+      "classe_nom": "COMPTES DE CHARGE (imputation par nature)",
+      "comptes": [
+        {
+          "compte_numero": "60",
+          "compte_nom": "Achats consommés",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "601",
+              "sous_compte_nom": "Matières premières"
+            },
+            {
+              "sous_compte_numero": "602",
+              "sous_compte_nom": "Autres approvisionnements"
+            },
+            {
+              "sous_compte_numero": "603",
+              "sous_compte_nom": "Variations des stocks"
+            },
+            {
+              "sous_compte_numero": "604",
+              "sous_compte_nom": "Achats d'études et de prestations de service"
+            },
+            {
+              "sous_compte_numero": "605",
+              "sous_compte_nom": "Achats de matériels, équipements et travaux"
+            },
+            {
+              "sous_compte_numero": "606",
+              "sous_compte_nom": "Achats non stockés de matières et fournitures"
+            },
+            {
+              "sous_compte_numero": "607",
+              "sous_compte_nom": "Achats de marchandises"
+            },
+            {
+              "sous_compte_numero": "608",
+              "sous_compte_nom": "Frais accessoires d'achat"
+            },
+            {
+              "sous_compte_numero": "609",
+              "sous_compte_nom": "Rabais, remises, ristournes obtenus sur achats"
+            }
+          ]
+        },
+        {
+          "compte_numero": "61",
+          "compte_nom": "SERVICES EXTERIEURS",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "611",
+              "sous_compte_nom": "Sous-traitance générale"
+            },
+            {
+              "sous_compte_numero": "612",
+              "sous_compte_nom": "(disponible)"
+            },
+            {
+              "sous_compte_numero": "613",
+              "sous_compte_nom": "Locations"
+            },
+            {
+              "sous_compte_numero": "614",
+              "sous_compte_nom": "Charges locatives et charges de copropriété"
+            },
+            {
+              "sous_compte_numero": "615",
+              "sous_compte_nom": "Entretien, réparations et maintenance"
+            },
+            {
+              "sous_compte_numero": "616",
+              "sous_compte_nom": "Primes d'assurances"
+            },
+            {
+              "sous_compte_numero": "617",
+              "sous_compte_nom": "Etudes et recherches"
+            },
+            {
+              "sous_compte_numero": "618",
+              "sous_compte_nom": "Documentation et divers"
+            },
+            {
+              "sous_compte_numero": "619",
+              "sous_compte_nom": "Rabais, remises, ristournes obtenus sur services extérieurs"
+            }
+          ]
+        },
+        {
+          "compte_numero": "62",
+          "compte_nom": "AUTRES SERVICES EXTERIEURS",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "621",
+              "sous_compte_nom": "Personnel extérieur à l'entreprise"
+            },
+            {
+              "sous_compte_numero": "622",
+              "sous_compte_nom": "Rémunérations d'intermédiaires et honoraires"
+            },
+            {
+              "sous_compte_numero": "623",
+              "sous_compte_nom": "Publicité, publication, relations publiques"
+            },
+            {
+              "sous_compte_numero": "624",
+              "sous_compte_nom": "Transports de biens et transport collectif du personnel"
+            },
+            {
+              "sous_compte_numero": "625",
+              "sous_compte_nom": "Déplacements, missions et réceptions"
+            },
+            {
+              "sous_compte_numero": "626",
+              "sous_compte_nom": "Frais postaux et de télécommunications"
+            },
+            {
+              "sous_compte_numero": "627",
+              "sous_compte_nom": "Services bancaires et assimilés"
+            },
+            {
+              "sous_compte_numero": "628",
+              "sous_compte_nom": "Cotisations et divers"
+            },
+            {
+              "sous_compte_numero": "629",
+              "sous_compte_nom": "Rabais, remises, ristournes obtenus sur autres services extérieurs"
+            }
+          ]
+        },
+        {
+          "compte_numero": "63",
+          "compte_nom": "IMPOTS, TAXES ET VERSEMENTS ASSIMILES",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "631",
+              "sous_compte_nom": "Impôts, taxes et versements assimilés sur rémunérations"
+            },
+            {
+              "sous_compte_numero": "635",
+              "sous_compte_nom": "Autres impôts et taxes"
+            }
+          ]
+        },
+        {
+          "compte_numero": "64",
+          "compte_nom": "CHARGES DE PERSONNEL",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "641",
+              "sous_compte_nom": "Rémunérations du personnel"
+            },
+            {
+              "sous_compte_numero": "644",
+              "sous_compte_nom": "Rémunérations des dirigeants"
+            },
+            {
+              "sous_compte_numero": "645",
+              "sous_compte_nom": "Cotisations aux organismes sociaux"
+            },
+            {
+              "sous_compte_numero": "646",
+              "sous_compte_nom": "Charges sociales sur rémunérations des dirigeants"
+            },
+            {
+              "sous_compte_numero": "647",
+              "sous_compte_nom": "Autres charges sociales"
+            },
+            {
+              "sous_compte_numero": "648",
+              "sous_compte_nom": "Autres charges de personnel"
+            }
+          ]
+        },
+        {
+          "compte_numero": "65",
+          "compte_nom": "AUTRES CHARGES DES ACTIVITES ORDINAIRES",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "651",
+              "sous_compte_nom": "Redevances pour concessions, brevets, licences, logiciels et valeurs similaires"
+            },
+            {
+              "sous_compte_numero": "652",
+              "sous_compte_nom": "Moins values sur cessions d'actifs non courants"
+            },
+            {
+              "sous_compte_numero": "653",
+              "sous_compte_nom": "Jetons de présence"
+            },
+            {
+              "sous_compte_numero": "654",
+              "sous_compte_nom": "Pertes sur créances irrécouvrables"
+            },
+            {
+              "sous_compte_numero": "655",
+              "sous_compte_nom": "Quote-part de résultat sur opérations faites en commun"
+            },
+            {
+              "sous_compte_numero": "656",
+              "sous_compte_nom": "Amendes et pénalités, subventions accordées, dons et libéralités"
+            },
+            {
+              "sous_compte_numero": "657",
+              "sous_compte_nom": "Charges exceptionnelles de gestion courante"
+            },
+            {
+              "sous_compte_numero": "658",
+              "sous_compte_nom": "Autres charges de gestion courante"
+            }
+          ]
+        },
+        {
+          "compte_numero": "66",
+          "compte_nom": "CHARGES FINANCIERES",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "661",
+              "sous_compte_nom": "Charges d'intérêts"
+            },
+            {
+              "sous_compte_numero": "664",
+              "sous_compte_nom": "Pertes sur créances liées a des participations"
+            },
+            {
+              "sous_compte_numero": "665",
+              "sous_compte_nom": "Moins-values sur titres de placement"
+            },
+            {
+              "sous_compte_numero": "666",
+              "sous_compte_nom": "Pertes de change"
+            },
+            {
+              "sous_compte_numero": "667",
+              "sous_compte_nom": "Moins-values sur instruments financiers et assimilés"
+            },
+            {
+              "sous_compte_numero": "668",
+              "sous_compte_nom": "Autres charges financières"
+            }
+          ]
+        },
+        {
+          "compte_numero": "67",
+          "compte_nom": "ELEMENTS EXTRAORDINAIRES (CHARGES)",
+          "sous_comptes": []
+        },
+        {
+          "compte_numero": "68",
+          "compte_nom": "DOTATIONS AUX AMORTISSEMENTS, PROVISIONS, PERTES DE VALEUR",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "681",
+              "sous_compte_nom": "Dotations - actifs non courants"
+            },
+            {
+              "sous_compte_numero": "685",
+              "sous_compte_nom": "Dotations - actifs courants"
+            }
+          ]
+        },
+        {
+          "compte_numero": "69",
+          "compte_nom": "IMPOTS SUR LES BENEFICES",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "692",
+              "sous_compte_nom": "Imposition différée actif"
+            },
+            {
+              "sous_compte_numero": "693",
+              "sous_compte_nom": "Imposition différée passif"
+            },
+            {
+              "sous_compte_numero": "695",
+              "sous_compte_nom": "Impôts sur les bénéfices basés sur le résultat des activités ordinaires"
+            },
+            {
+              "sous_compte_numero": "698",
+              "sous_compte_nom": "Autres impôts sur les résultats"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classe_numero": 7,
+      "classe_nom": "COMPTES DE PRODUITS",
+      "comptes": [
+        {
+          "compte_numero": "70",
+          "compte_nom": "VENTES DE PRODUITS FABRIQUES, MARCHANDISES, PRESTATIONS",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "701",
+              "sous_compte_nom": "Ventes de produits finis"
+            },
+            {
+              "sous_compte_numero": "702",
+              "sous_compte_nom": "Ventes de produits intermédiaires"
+            },
+            {
+              "sous_compte_numero": "703",
+              "sous_compte_nom": "Ventes de produits résiduels"
+            },
+            {
+              "sous_compte_numero": "704",
+              "sous_compte_nom": "Vente de travaux"
+            },
+            {
+              "sous_compte_numero": "705",
+              "sous_compte_nom": "Vente d'études"
+            },
+            {
+              "sous_compte_numero": "706",
+              "sous_compte_nom": "Vente de prestations de service"
+            },
+            {
+              "sous_compte_numero": "707",
+              "sous_compte_nom": "Ventes de marchandises"
+            },
+            {
+              "sous_compte_numero": "708",
+              "sous_compte_nom": "Produits des activités annexes"
+            },
+            {
+              "sous_compte_numero": "709",
+              "sous_compte_nom": "Rabais, remises et ristournes accordés"
+            }
+          ]
+        },
+        {
+          "compte_numero": "71",
+          "compte_nom": "PRODUCTION STOCKEE (OU DESTOCKAGE)",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "713",
+              "sous_compte_nom": "Variation de stocks d'en-cours"
+            },
+            {
+              "sous_compte_numero": "714",
+              "sous_compte_nom": "Variation de stocks de produits"
+            }
+          ]
+        },
+        {
+          "compte_numero": "72",
+          "compte_nom": "PRODUCTION IMMOBILISEE",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "721",
+              "sous_compte_nom": "Production immobilisée d'actif incorporel"
+            },
+            {
+              "sous_compte_numero": "722",
+              "sous_compte_nom": "Production immobilisée d'actif corporel"
+            }
+          ]
+        },
+        {
+          "compte_numero": "74",
+          "compte_nom": "SUBVENTIONS D'EXPLOITATION",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "741",
+              "sous_compte_nom": "Subvention d'équilibre"
+            },
+            {
+              "sous_compte_numero": "748",
+              "sous_compte_nom": "Autres subventions d'exploitation"
+            }
+          ]
+        },
+        {
+          "compte_numero": "75",
+          "compte_nom": "AUTRES PRODUITS OPERATIONNELS",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "751",
+              "sous_compte_nom": "Redevances pour concessions, brevets, licences, logiciels et valeurs similaires"
+            },
+            {
+              "sous_compte_numero": "752",
+              "sous_compte_nom": "Plus-values sur cessions d'actifs non courants"
+            },
+            {
+              "sous_compte_numero": "753",
+              "sous_compte_nom": "Jetons de présence et rémunérations d'administrateurs ou de gérant"
+            },
+            {
+              "sous_compte_numero": "754",
+              "sous_compte_nom": "Quotes-parts de subventions d'investissement virées au résultat de l'exercice"
+            },
+            {
+              "sous_compte_numero": "755",
+              "sous_compte_nom": "Quote-part de résultat sur opérations faites en commun"
+            },
+            {
+              "sous_compte_numero": "756",
+              "sous_compte_nom": "Libéralités perçues, rentrées sur créances amorties"
+            },
+            {
+              "sous_compte_numero": "757",
+              "sous_compte_nom": "Produits exceptionnels sur opérations de gestion"
+            },
+            {
+              "sous_compte_numero": "758",
+              "sous_compte_nom": "Autres produits de gestion courante"
+            }
+          ]
+        },
+        {
+          "compte_numero": "76",
+          "compte_nom": "PRODUITS FINANCIERS",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "761",
+              "sous_compte_nom": "Produits de participations"
+            },
+            {
+              "sous_compte_numero": "762",
+              "sous_compte_nom": "Produits des autres immobilisations financières"
+            },
+            {
+              "sous_compte_numero": "763",
+              "sous_compte_nom": "Revenus des autres créances"
+            },
+            {
+              "sous_compte_numero": "764",
+              "sous_compte_nom": "Revenus et plus values des valeurs mobilières de placement"
+            },
+            {
+              "sous_compte_numero": "766",
+              "sous_compte_nom": "Gains de change"
+            },
+            {
+              "sous_compte_numero": "767",
+              "sous_compte_nom": "Produits nets sur cessions de valeurs mobilières de placement"
+            },
+            {
+              "sous_compte_numero": "768",
+              "sous_compte_nom": "Autres produits financiers"
+            }
+          ]
+        },
+        {
+          "compte_numero": "77",
+          "compte_nom": "ELEMENTS EXTRAORDINAIRES (PRODUITS)",
+          "sous_comptes": []
+        },
+        {
+          "compte_numero": "78",
+          "compte_nom": "REPRISES SUR PROVISIONS ET PERTES DE VALEUR",
+          "sous_comptes": [
+            {
+              "sous_compte_numero": "781",
+              "sous_compte_nom": "Reprise d'exploitation - actifs non courants"
+            },
+            {
+              "sous_compte_numero": "785",
+              "sous_compte_nom": "Reprise d'exploitation - actifs courants"
+            },
+            {
+              "sous_compte_numero": "786",
+              "sous_compte_nom": "Reprises financières"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
